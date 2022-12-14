@@ -1,0 +1,18 @@
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .progress-bar {
+    margin: 50px auto;
+    height: 10px;
+    width: 50vw;
+    border: 1px solid black;
+  }
+  .progress {
+    height: 100%;
+    width: 0%;
+    background-color: red;
+    transition: all 3s linear;
+  }
+  
